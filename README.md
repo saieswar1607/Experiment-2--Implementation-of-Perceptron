@@ -43,7 +43,7 @@ Print the accuracy
 
 
 ### PROGRAM:
-### Developed By:kandukuri sai eswar
+### Developed By:Sai Eswar Kandukuri
 ### Register no:212221240020
 ```
 import numpy as np
